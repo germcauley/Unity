@@ -8,7 +8,9 @@ public class TestScript1 : MonoBehaviour
     void Start()
     {
         System.Console.WriteLine (	"test123123");
+		System.Console.WriteLine (	"test123123");
     }
+
 
     // Update is called once per frame
     void Update()
